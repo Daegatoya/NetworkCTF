@@ -272,7 +272,7 @@ namespace CTF
                     
                     /* Prints the expected IPv6 and IPv4 that the admin network should have. */
                     Console.ForegroundColor = ConsoleColor.Cyan;
-                    Console.WriteLine("\n\t[IPv6_Prefix{true}]2c75:7d0c::\n\t[subnet_Mask{true}].100");
+                    Console.WriteLine("\n\t[IPv6_16bits{true}]2c75:7d0c::\n\t[subnet_Mask{true}].100");
                     Console.ForegroundColor = ConsoleColor.White;
                 }
                 

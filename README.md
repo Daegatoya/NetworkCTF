@@ -41,7 +41,7 @@ This? This is my first ever application CTF I made. In the past, I did make a fe
 
 <img src="https://i.gyazo.com/559b95d430a576703d351f102028e7af.png" width="350" height="150">
 
-</details>
+</details> 
 
 ---
 

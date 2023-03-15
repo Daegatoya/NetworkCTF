@@ -45,7 +45,7 @@ This? This is my first ever application CTF I made. In the past, I did make a fe
 
 ---
 
-**With love, Elizabeth** ❤️
+**With love, Daegatoya** ❤️
          
 <p align="center">
 
